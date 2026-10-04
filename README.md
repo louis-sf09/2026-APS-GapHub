@@ -1,4 +1,4 @@
-# Party Hub: Um sistema simples para programar festas, eventos e encontros.
+# Gap Hub: Um sistema simples para programar encontros e eventos do Gap (Grupo de Adolescentes Presbiterianos)
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
