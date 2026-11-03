@@ -9,10 +9,7 @@ IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao 
 
 ## Apresentação do projeto
 
-<!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
-     Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
-
-_Escreva aqui a apresentação do projeto._
+O Gap Hub é um sistema que surgiu da observação do Gap (Grupo de Adolescentes Presbiterianos) da minha igreja. O que acontece é que os avisos de cada encontro/evento e a inscrição/confirmação de quem vai em cada um deles é feita via aplicativo de mensagem, o que é um pouco desorganizado. Esse sistema serve para facilitar a organização e o trabalho da equipe de liderança, registrando quem vai em cada evento, e avisando quais eventos estão próximos de acontecer.
 
 ## Documento do projeto
 
@@ -26,7 +23,7 @@ A numeração é a do modelo de trabalho do IFPR, a mesma dos trabalhos de Proje
 | 4.1 Descrição do Projeto | [docs/4.1-descricao-do-projeto.md](docs/4.1-descricao-do-projeto.md) | ✅ |
 | 4.2 Análise do Sistema | [docs/4.2-analise-do-sistema.md](docs/4.2-analise-do-sistema.md) | ⬜ |
 | 4.2.1 Levantamento de Requisitos | [docs/4.2.1-levantamento-de-requisitos.md](docs/4.2.1-levantamento-de-requisitos.md) | ✅ |
-| 4.2.2 Modelagem de Casos de Uso | [docs/4.2.2-casos-de-uso.md](docs/4.2.2-casos-de-uso.md) | ⬜ |
+| 4.2.2 Modelagem de Casos de Uso | [docs/4.2.2-casos-de-uso.md](docs/4.2.2-casos-de-uso.md) | ✅ |
 | 4.2.3 Modelagem de Classes | [docs/4.2.3-classes.md](docs/4.2.3-classes.md) | ⬜ |
 | 4.2.4 Modelagem de Sequência | [docs/4.2.4-sequencia.md](docs/4.2.4-sequencia.md) | ⬜ |
 | 4.2.5 Modelagem de Atividade | [docs/4.2.5-atividade.md](docs/4.2.5-atividade.md) | ⬜ |
