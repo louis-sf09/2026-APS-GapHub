@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="V4dcDk9agW63UTfMdK6s">
+    <mxGraphModel dx="746" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Gap Hub" vertex="1">
+          <mxGeometry height="590" width="200" x="380" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-2" parent="jbQGPPJ0G9epf1zgTd1I-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Cadastrar evento" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-3" parent="jbQGPPJ0G9epf1zgTd1I-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Remover evento" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-4" parent="jbQGPPJ0G9epf1zgTd1I-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consultar inscrições" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-5" parent="jbQGPPJ0G9epf1zgTd1I-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consultar dados" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-6" parent="jbQGPPJ0G9epf1zgTd1I-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fazer inscrição" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-20" parent="jbQGPPJ0G9epf1zgTd1I-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Desfazer inscrição" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-15" edge="1" parent="1" source="jbQGPPJ0G9epf1zgTd1I-7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=none;endFill=0;" target="jbQGPPJ0G9epf1zgTd1I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-16" edge="1" parent="1" source="jbQGPPJ0G9epf1zgTd1I-7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=none;endFill=0;" target="jbQGPPJ0G9epf1zgTd1I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-17" edge="1" parent="1" source="jbQGPPJ0G9epf1zgTd1I-7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=none;endFill=0;" target="jbQGPPJ0G9epf1zgTd1I-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yA78zUKnQXHGd0MrhsaT-1" edge="1" parent="1" source="jbQGPPJ0G9epf1zgTd1I-7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=none;endFill=0;" target="jbQGPPJ0G9epf1zgTd1I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Líder" vertex="1">
+          <mxGeometry height="60" width="30" x="200" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-19" edge="1" parent="1" source="jbQGPPJ0G9epf1zgTd1I-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=none;endFill=0;" target="jbQGPPJ0G9epf1zgTd1I-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-21" edge="1" parent="1" source="jbQGPPJ0G9epf1zgTd1I-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=none;endFill=0;" target="jbQGPPJ0G9epf1zgTd1I-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yA78zUKnQXHGd0MrhsaT-2" edge="1" parent="1" source="jbQGPPJ0G9epf1zgTd1I-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=none;endFill=0;" target="jbQGPPJ0G9epf1zgTd1I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbQGPPJ0G9epf1zgTd1I-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Adolescente" vertex="1">
+          <mxGeometry height="60" width="30" x="200" y="635" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
